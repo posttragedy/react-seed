@@ -1,0 +1,22 @@
+{
+  "name": "react-seed",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "posttragedy <traga@inbox.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/posttragedy/react-seed",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "*",
+    "jquery": "*"
+  }
+}
